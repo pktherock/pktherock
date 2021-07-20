@@ -1,4 +1,4 @@
-### Hi there, I'm Prashant Kumar! 👋
+### Hi there, I'm Prashant Kumar ! 👋
 
 <!--
 **pktherock/pktherock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
