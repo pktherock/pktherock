@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prashant Kumar ! img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" alt="hi"></h1>
-<h3 align="center">Full Stack Debeloper & Curious learner <
-</h3>
+<h1 align="center">Hi 👋, I'm Prashant Kumar ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="50px" alt="hi"></h1>
+<h3 align="center">Full Stack Debeloper & Curious learner</h3>
 
 - 🔭 I’m currently working on **Fully functional e-commerse website**
 
