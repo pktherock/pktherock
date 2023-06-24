@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & Curious learner</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"> <br>
 
-- 🔭 I’m currently working on **Fully functional e-commerse website**
+- 🔭 I’m currently working on **Fully functional e-commerce website**
 
 - 🌱 I’m currently learning **React Js**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/pktherock**
 
-- ⚡ Fun fact **I am very curious about learning logical things**
+- ⚡ Fun fact **I am curious about learning logical things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
