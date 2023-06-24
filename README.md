@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Fully functional e-commerce website**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React, Angular, Next js**
 
-- 💬 Ask me about **Javascript, React Js, Node Js, Html, CSS**
+- 💬 Ask me about **Javascript, Next js, React, Angular, Node Js, Html, CSS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pktherock**
 
